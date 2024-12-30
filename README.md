@@ -1,5 +1,5 @@
 # kingcolly-crypto.github.io
-Click here to be directed to my github page https://github.com/Kingcolly-crypto/kingcolly-crypto.github.io.git
+Click here to be directed to my github page <a>https://github.com/Kingcolly-crypto/kingcolly-crypto.github.io.git</a>
  <html lang="en">
  <head>
     <meta charset="UTF-8">
