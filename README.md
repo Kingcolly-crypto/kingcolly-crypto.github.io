@@ -1,6 +1,5 @@
 # kingcolly-crypto.github.io
-To access me , email me omondicollins1403@gmail.com
-<!DOCTYPE html>
+To access me , email me @omondicollins1403@gmail.com
  <html lang="en">
  <head>
     <meta charset="UTF-8">
@@ -136,7 +135,7 @@ To access me , email me omondicollins1403@gmail.com
     <li><span>Address social economic factors</span><br >Poverty, war, and inequity are major socioeconomic and environmental determinants for mental health </li>
     <li><span>Share your thoughts</span><br >Share your thoughts to your close friends that you trust or your lover or family  no matter how small or stupid you may think they are.</li>
 
-</ul>
+
 <div class="image5">
     <img src="drained.jpeg">
   </div>
@@ -154,7 +153,6 @@ To access me , email me omondicollins1403@gmail.com
     <li>Social and emotional learning for adolescents</li>
 
 </ul>
-</div>
 <p><em>Some lifestyle changes may help prevent and ease mental illness, some of them include: eating a healthy diet, maintaining good social support and avoiding substance and drug abuse.</em></p>
 
 <br ><hr ><hr ><br ><br >
@@ -209,5 +207,4 @@ To access me , email me omondicollins1403@gmail.com
             </div>
         </div>
     </footer>
- </body>
- </html>
+ 
