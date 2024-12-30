@@ -1,5 +1,5 @@
 # kingcolly-crypto.github.io
-To access me , email me @omondicollins1403@gmail.com
+Click here to be directed to my github page https://github.com/Kingcolly-crypto/kingcolly-crypto.github.io.git
  <html lang="en">
  <head>
     <meta charset="UTF-8">
