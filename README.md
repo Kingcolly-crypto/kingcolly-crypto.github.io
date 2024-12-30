@@ -15,7 +15,7 @@ Follow this link to access my github respository <a>https://github.com/Kingcolly
     background-position: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-blend-mode: inherit;
+    background-blend-mode :color;
     background-size: cover;
     color: rgb(20, 20, 14);
     font-family: sans-serif;
@@ -70,19 +70,7 @@ img:hover {
     animation-duration: 5s;
     animation-delay: 5s;
 }
-.image1 {
-    float: right;
-}
-.image2 {
-    float: left;
-    
-}
-.image4 {
-    float: right;
-}
-.image5 {
-    float: right;
-}
+
 .symptoms {
     background-image: url(depression.jp;
     padding: 0%;
@@ -94,7 +82,7 @@ img:hover {
 .symptoms:hover {
     background: linear-gradient(black , black);
     background-size: contain;
-    background-repeat: inherit;
+    background-repeat: no-repeat;
     background-blend-mode: darken;
     
 }
@@ -112,7 +100,7 @@ img:hover {
 }
 
 .society {
-    background-image: url(redimage.jpeg);
+    background-color: skyblue;
     color: white;
     padding: 0%;
     border-radius: 5px;
@@ -129,8 +117,6 @@ em {
 }
 footer {
     padding: 0%;
-
-    
 }
 .container {
     background-color: rgba(0, 0, 0, 0.726);
@@ -140,6 +126,7 @@ footer {
     padding: 80px 10%;
     border-radius: 10px;
     color: gold;
+    margin-left: 20px ;
 
 }
 .contents {
@@ -171,8 +158,6 @@ button {
     color: black;
     text-decoration: none;
     background-color: black;
-
-    
 }
 #dedication {
     color: blue;
