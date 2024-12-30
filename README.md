@@ -12,7 +12,7 @@ To access me , email me omondicollins1403@gmail.com
  <body>
     <div id="dedication">
         <p><em> copyright: @Kingcolly-crypto</em></p>
-        </div>
+    </div>
     <!--</div>
     <div class="login">
         <button><a href="">Sign in</a></button>  <button><a href="">Sign up</a></button>
@@ -32,9 +32,7 @@ To access me , email me omondicollins1403@gmail.com
             <div class="signs"><li><a href="#symptoms">symptoms</a></li></div>
             <div class="effect"><li><a href="#effects">Effects</a></li></div>
             <div class="role"><li><a href="#society">Society role</a></li></div>
-        </0l>
-       </div>
-   </footer>
+       
    <div class="meaning">
 
    <div class="image1">
