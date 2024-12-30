@@ -21,6 +21,7 @@ Follow this link to access my github respository <a>https://github.com/Kingcolly
     font-family: sans-serif;
     font-weight: bolder;
     line-height: 35px;
+    display: inline-block ;
 
 }
 h1 {
