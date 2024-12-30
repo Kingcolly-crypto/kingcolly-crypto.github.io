@@ -179,7 +179,7 @@ ol {
         <p>Mental illness can be treated! Speak out, don't let it finish you from the inside!!</p><br ><br >
     </div>
         
-    <h1>Mental <span id="h1">illness</span></h1>
+    <h1><span id="h1">Mental illness</span></h1>
    <footer>
     <div class="contents">
         <h3>Table of contents:</h3>
