@@ -11,7 +11,7 @@ Follow this link to access my github respository <a>https://github.com/Kingcolly
   <style type="text/css">
 
    body {
-    background-color: grey;
+    background-color: black;
     background-position: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
