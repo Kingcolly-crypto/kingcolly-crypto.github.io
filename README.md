@@ -11,7 +11,7 @@ Follow this link to access my github respository <a>https://github.com/Kingcolly
   <style type="text/css">
 
    body {
-    background-image: url(fakesmile.jpeg);
+    background-color: grey;
     background-position: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -84,7 +84,7 @@ img:hover {
     float: right;
 }
 .symptoms {
-    background-image: url(depression.jpeg);
+    background-image: url(depression.jp;
     padding: 0%;
     border-radius: 15px;
     color: rgb(11, 241, 3);
@@ -207,10 +207,6 @@ ol {
        
    <div class="meaning">
 
-   <div class="image1">
-    <img src="kid.jpeg" >
-</div>
-
     
         <h2>What is mental illness?</h2>
         <p>Mental illness is a medical condition that can affect a person's thinking, emotions, and behaviors, and can make it difficult to function in social, 
@@ -231,10 +227,6 @@ ol {
         </ul>
         </p>
     </div><br ><br ><br >
-
-<div class="image2">
-    <img src="pritority.jpeg">
-</div>
   <div class="causes">
     <h2>The causes of mental illness</h2>
     <p><span>Mental illness is caused by a set of complex combinations, either social, emotional, financial, biological etc:</span>
@@ -277,9 +269,6 @@ ol {
   </div>
   <hr ><br ><br ><br >
 
-  <div class="image4">
-    <img src="stressed.jpeg">
-  </div>
   <div class="effects">
     <h2>Effects of mental illness</h2>
     <p>Mental illness is a leading cause of disability. Untreated mentall illness can cause emotional, physical and behavioural problems. <br >Some complications linked to mentall illness include:
@@ -309,9 +298,7 @@ ol {
     <li><span>Share your thoughts</span><br >Share your thoughts to your close friends that you trust or your lover or family  no matter how small or stupid you may think they are.</li>
 
 
-<div class="image5">
-    <img src="drained.jpeg">
-  </div>
+
 <p>Other ways of preventions include:</p>
 <ul>
     <li>Talk about your feelings</li>
