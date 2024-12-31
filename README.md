@@ -37,7 +37,7 @@ h1 {
 }
 h2 {
     font-size:45px ;
-    color: rgb(3, 0, 0);
+    color: gold;
     font-weight: bold;
 }
 
