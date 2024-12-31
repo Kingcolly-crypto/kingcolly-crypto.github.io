@@ -101,7 +101,7 @@ img:hover {
 }
 
 .society {
-    background-color: skyblue;
+    background-color: grey;
     color: white;
     padding: 0%;
     border-radius: 5px;
